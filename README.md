@@ -4,9 +4,9 @@
 
 This project took around 3 hours to complete.
 
-The original idea is explained in the original README (see below).
+The original idea is explained at the end of this document.
 
-If I had more time to complete this implementation I would improve the algorithms I used to equate the sentences to make the process run faster, and also include some unit testing.
+With more time, I would improve the algorithms I used to equate the sentences to make the process run faster, and also include some unit testing.
 
 ### Implementation Summary
 
