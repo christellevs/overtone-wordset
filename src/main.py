@@ -10,6 +10,6 @@ if __name__ == "__main__":
     # if exercise 2 is not activated equate sentences
     equate_sentences()
   else:
-    # if exercise 2 is activated, first run script to create new tuples and then equate sentences
+    # if exercise 2 is activated, first run function to create new tuples and then equate sentences
     tuple_processing()
     equate_sentences()
