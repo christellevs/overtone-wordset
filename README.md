@@ -1,13 +1,5 @@
 # Wordsets
 
-## Overview
-
-This project took around 3 hours to complete.
-
-The original idea is explained at the end of this document.
-
-With more time, I would improve the algorithms I used to equate the sentences to make the process run faster, and also include some unit testing.
-
 ### Implementation Summary
 
 - Included a list of tuples to keep the word pairs e.g. `[(eat, consume), (easy, simple)]`
