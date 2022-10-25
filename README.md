@@ -79,7 +79,7 @@ If Exercise 2 is set to `True`:
 
 6 - Go into source folder to run main file:
 
-`cd src`
+`cd src/`
 
 7 - Run main Python file:
 
