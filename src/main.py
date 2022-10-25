@@ -1,4 +1,5 @@
-
+from word_processing import equate_sentences, tuple_processing
 
 if __name__ == "__main__":
-  print("Hello Wordset!")
+  equate_sentences()
+  tuple_processing()
